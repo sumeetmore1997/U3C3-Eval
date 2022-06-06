@@ -1,0 +1,11 @@
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    margin: auto;
+}
+#form_div{
+    width: 40%;
+    margin: auto;
+}
